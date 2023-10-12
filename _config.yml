@@ -3,10 +3,12 @@ description: Countdowns to top Networking & Communications conference deadlines.
 author: TBD
 
 domain: "netcom-deadlines.github.io"
-baseurl: ""
+# baseurl: "netcom-deadlines.github.io"
+# Use this baseurl for local testing with `jekyll serve`
+# baseurl: ""
 
-linkedin_url: https://www.linkedin.com/in/your-profile/
-twitter_username: todo
+linkedin_url: TBD
+twitter_username: TBD
 github_username: netcom-deadlines
 github_repo: netcom-deadlines.github.io
 
