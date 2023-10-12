@@ -1,6 +1,6 @@
 # Networking and Measurement deadlines countdown
 
-Based on [sec-deadlines](https://sec-deadlines.github.io/) by [Clement Fung](https://github.com/clementfung), based on [ai-deadlines](https://aideadlin.es) by @abshkdz
+Based on [networking-deadlines](https://noise-lab.net/networking-deadlines/) by [Andrew Chu](https://andrewcchu.github.io/), [sec-deadlines](https://sec-deadlines.github.io/) by [Clement Fung](https://github.com/clementfung), based on [ai-deadlines](https://aideadlin.es) by @abshkdz
 
 ## Building/testing locally
 
