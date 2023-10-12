@@ -285,7 +285,7 @@ $(function() {
   
   // NOMS 2024
   
-  var rawDeadlines = ["2023-09-29 24:00"] || [];
+  var rawDeadlines = ["2023-10-13 24:00"] || [];
   if (rawDeadlines.constructor !== Array) {
     rawDeadlines = [rawDeadlines];
   }
@@ -726,7 +726,7 @@ $(function() {
   
   // MOBISLICE 2023
   
-  var rawDeadlines = ["2023-09-18 24:00"] || [];
+  var rawDeadlines = ["2023-09-24 24:00"] || [];
   if (rawDeadlines.constructor !== Array) {
     rawDeadlines = [rawDeadlines];
   }

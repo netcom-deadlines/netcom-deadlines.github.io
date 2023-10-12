@@ -57,8 +57,8 @@
   description: IEEE/IFIP Network Operations and Management Symposium
   link: https://noms2024.ieee-noms.org/
   comment: 
-    Initial deadline, Check more details and recent updates on the corresponding website
-  deadline: ["2023-09-29 24:00"]
+    Extended deadline, Check more details and recent updates on the corresponding website
+  deadline: ["2023-10-13 24:00"]
   place: Seoul, South Korea
   tags: [CONF]
 
@@ -132,8 +132,8 @@
   description: Mobility Support in Slice-based Network Control for Heterogeneous Environments
   link: http://mobislice.com/
   comment: 
-    Initial deadline, In conjunction with IEEE Conference on Network Function Virtualization and Software Defined Networks
-  deadline: ["2023-09-18 24:00"]
+    Extended deadline, In conjunction with IEEE Conference on Network Function Virtualization and Software Defined Networks
+  deadline: ["2023-09-24 24:00"]
   place:  Dresden, Germany
   tags: [SHOP]
 
