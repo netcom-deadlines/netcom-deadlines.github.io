@@ -1,0 +1,5 @@
+---
+- name: Conference
+  tag: CONF
+- name: Workshop
+  tag: SHOP

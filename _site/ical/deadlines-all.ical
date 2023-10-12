@@ -1,0 +1,260 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://noise-lab.net/networking-deadlines
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nsdi2024-0@noise-lab.net/networking-deadlines
+SUMMARY:NSDI 2024 Deadline (1 / 2)
+DESCRIPTION:Deadline for NSDI 2024 April 16 - 18 Santa Clara, California, USA\nUSENIX Symposium on Networked Systems Design and Implementation\nAbstract deadlines: April 27 (20:59 PST), September 7 (20:59 PST)
+\nhttps://www.usenix.org/conference/nsdi24
+URL:https://www.usenix.org/conference/nsdi24
+LOCATION:Santa Clara, California, USA
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=America/Los_Angeles:20230504T205900
+DTEND;TZID=America/Los_Angeles:20230504T205959
+END:VEVENT
+BEGIN:VEVENT
+UID:nsdi2024-1@noise-lab.net/networking-deadlines
+SUMMARY:NSDI 2024 Deadline (2 / 2)
+DESCRIPTION:Deadline for NSDI 2024 April 16 - 18 Santa Clara, California, USA\nUSENIX Symposium on Networked Systems Design and Implementation\nAbstract deadlines: April 27 (20:59 PST), September 7 (20:59 PST)
+\nhttps://www.usenix.org/conference/nsdi24
+URL:https://www.usenix.org/conference/nsdi24
+LOCATION:Santa Clara, California, USA
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=America/Los_Angeles:20230907T205900
+DTEND;TZID=America/Los_Angeles:20230907T205959
+END:VEVENT
+BEGIN:VEVENT
+UID:conext2023-0@noise-lab.net/networking-deadlines
+SUMMARY:CoNEXT 2023 Deadline
+DESCRIPTION:Deadline for CoNEXT 2023 December 5 - 8 Paris, France\nInternational Conference on emerging Networking EXperiments and Technologies\nFirm deadline, Check more details and recent updates on the corresponding website\nhttps://conferences.sigcomm.org/co-next/2023
+URL:https://conferences.sigcomm.org/co-next/2023
+LOCATION:Paris, France
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230628T000000
+DTEND;TZID=Etc/GMT+12:20230628T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:ieee-infocom2024-0@noise-lab.net/networking-deadlines
+SUMMARY:IEEE INFOCOM 2024 Deadline
+DESCRIPTION:Deadline for IEEE INFOCOM 2024 May 20 - 23 Vancouver, British Columbia, Canada\nIEEE International Conference on Computer Communications\nAbstract deadline: July 23 (23:59 AoE) //
+Firm deadline, Check more details and recent updates on the corresponding website
+\nhttps://infocom2024.ieee-infocom.org/
+URL:https://infocom2024.ieee-infocom.org/
+LOCATION:Vancouver, British Columbia, Canada
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230730T235900
+DTEND;TZID=Etc/GMT+12:20230730T235959
+END:VEVENT
+BEGIN:VEVENT
+UID:sigcomm2023-0@noise-lab.net/networking-deadlines
+SUMMARY:SIGCOMM 2023 Deadline
+DESCRIPTION:Deadline for SIGCOMM 2023 September 10 - 14 New York City, New York, USA\nConference on Applications, Technologies, Architectures, and Protocols for Computer Communication\nAbstract deadline: February 28 (23:59 UTC)
+\nhttps://conferences.sigcomm.org/sigcomm/2023/
+URL:https://conferences.sigcomm.org/sigcomm/2023/
+LOCATION:New York City, New York, USA
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/UTC:20230215T235900
+DTEND;TZID=Etc/UTC:20230215T235959
+END:VEVENT
+BEGIN:VEVENT
+UID:noms2024-0@noise-lab.net/networking-deadlines
+SUMMARY:NOMS 2024 Deadline
+DESCRIPTION:Deadline for NOMS 2024 May 5 - 10 Seoul, South Korea\nIEEE/IFIP Network Operations and Management Symposium\nInitial deadline, Check more details and recent updates on the corresponding website\nhttps://noms2024.ieee-noms.org/
+URL:https://noms2024.ieee-noms.org/
+LOCATION:Seoul, South Korea
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230930T000000
+DTEND;TZID=Etc/GMT+12:20230930T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:nfv-sdn2023-0@noise-lab.net/networking-deadlines
+SUMMARY:NFV/SDN 2023 Deadline
+DESCRIPTION:Deadline for NFV/SDN 2023 Nov 7 - 9 Dresden, Germany\nIEEE Conference on Network Function Virtualization and Software Defined Networks\nFirm deadline, Check more details and recent updates on the corresponding website
+\nhttps://nfvsdn2023.ieee-nfvsdn.org/
+URL:https://nfvsdn2023.ieee-nfvsdn.org/
+LOCATION:Dresden, Germany
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230722T000000
+DTEND;TZID=Etc/GMT+12:20230722T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:icc2024-0@noise-lab.net/networking-deadlines
+SUMMARY:ICC 2024 Deadline
+DESCRIPTION:Deadline for ICC 2024 June 9 - 13 Denver, CO, USA\nIEEE International Conference on Communications\nInitial deadline, Check more details and recent updates on the corresponding website
+\nhttps://icc2024.ieee-icc.org/
+URL:https://icc2024.ieee-icc.org/
+LOCATION:Denver, CO, USA
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20231012T000000
+DTEND;TZID=Etc/GMT+12:20231012T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:netsoft2023-0@noise-lab.net/networking-deadlines
+SUMMARY:NETSOFT 2023 Deadline
+DESCRIPTION:Deadline for NETSOFT 2023 June 19 - 23 Madrid, Spain\nIEEE International Conference on Network Softwarization\n\nhttps://netsoft2023.ieee-netsoft.org/
+URL:https://netsoft2023.ieee-netsoft.org/
+LOCATION:Madrid, Spain
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230214T000000
+DTEND;TZID=Etc/GMT+12:20230214T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:globecom2023-0@noise-lab.net/networking-deadlines
+SUMMARY:GLOBECOM 2023 Deadline
+DESCRIPTION:Deadline for GLOBECOM 2023 December 04 - 08 Kuala Lumpur, Malaysia\nIEEE Global Communications Conference\n\nhttps://globecom2023.ieee-globecom.org/
+URL:https://globecom2023.ieee-globecom.org/
+LOCATION:Kuala Lumpur, Malaysia
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230522T000000
+DTEND;TZID=Etc/GMT+12:20230522T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:p4-workshop2023-0@noise-lab.net/networking-deadlines
+SUMMARY:P4 WORKSHOP 2023 Deadline
+DESCRIPTION:Deadline for P4 WORKSHOP 2023 December 05 - 08 Paris, France\nEuro P4 2023\nExtended deadline, In conjunction with ACM CoNEXT 2023\nhttps://opennetworking.org/events/euro-p4-2023/
+URL:https://opennetworking.org/events/euro-p4-2023/
+LOCATION:Paris, France
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230917T000000
+DTEND;TZID=Etc/GMT+12:20230917T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:wowmom2024-0@noise-lab.net/networking-deadlines
+SUMMARY:WOWMOM 2024 Deadline
+DESCRIPTION:Deadline for WOWMOM 2024 June 04 - 07 Perth, Australia\nIEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks\nInitial deadline, Check more details and recent updates on the corresponding website\nhttps://www.cse.unsw.edu.au/~wowmom/2024/index.html
+URL:https://www.cse.unsw.edu.au/~wowmom/2024/index.html
+LOCATION:Perth, Australia
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20231202T000000
+DTEND;TZID=Etc/GMT+12:20231202T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:mobislice2023-0@noise-lab.net/networking-deadlines
+SUMMARY:MOBISLICE 2023 Deadline
+DESCRIPTION:Deadline for MOBISLICE 2023 November 07 Dresden, Germany\nMobility Support in Slice-based Network Control for Heterogeneous Environments\nInitial deadline, In conjunction with IEEE Conference on Network Function Virtualization and Software Defined Networks\nhttp://mobislice.com/
+URL:http://mobislice.com/
+LOCATION:Dresden, Germany
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230919T000000
+DTEND;TZID=Etc/GMT+12:20230919T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:cnsm2023-0@noise-lab.net/networking-deadlines
+SUMMARY:CNSM 2023 Deadline
+DESCRIPTION:Deadline for CNSM 2023 October-November 30-02 Niagara Falls, Canada\nInternational Conference on Network and Service Management\n\nhttp://www.cnsm-conf.org/2023/
+URL:http://www.cnsm-conf.org/2023/
+LOCATION:Niagara Falls, Canada
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230717T000000
+DTEND;TZID=Etc/GMT+12:20230717T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:wcnc2023-0@noise-lab.net/networking-deadlines
+SUMMARY:WCNC 2023 Deadline
+DESCRIPTION:Deadline for WCNC 2023 March 26-29 Glasgow, Scotland, UK\nIEEE Wireless Communications and Networking Conference\n\nhttps://wcnc2023.ieee-wcnc.org/
+URL:https://wcnc2023.ieee-wcnc.org/
+LOCATION:Glasgow, Scotland, UK
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230116T000000
+DTEND;TZID=Etc/GMT+12:20230116T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:mobicom2023-0@noise-lab.net/networking-deadlines
+SUMMARY:MOBICOM 2023 Deadline (1 / 2)
+DESCRIPTION:Deadline for MOBICOM 2023 October 2-6 Madrid, Spain\nInternational Conference On Mobile Computing And Networking\nAbstract deadlines: March 10 (23:59 PDT), August 12 (23:59 PDT)
+\nhttps://sigmobile.org/mobicom/2023/
+URL:https://sigmobile.org/mobicom/2023/
+LOCATION:Madrid, Spain
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=America/Los_Angeles:20230317T205900
+DTEND;TZID=America/Los_Angeles:20230317T205959
+END:VEVENT
+BEGIN:VEVENT
+UID:mobicom2023-1@noise-lab.net/networking-deadlines
+SUMMARY:MOBICOM 2023 Deadline (2 / 2)
+DESCRIPTION:Deadline for MOBICOM 2023 October 2-6 Madrid, Spain\nInternational Conference On Mobile Computing And Networking\nAbstract deadlines: March 10 (23:59 PDT), August 12 (23:59 PDT)
+\nhttps://sigmobile.org/mobicom/2023/
+URL:https://sigmobile.org/mobicom/2023/
+LOCATION:Madrid, Spain
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=America/Los_Angeles:20230819T205900
+DTEND;TZID=America/Los_Angeles:20230819T205959
+END:VEVENT
+BEGIN:VEVENT
+UID:hotnets2023-0@noise-lab.net/networking-deadlines
+SUMMARY:HOTNETS 2023 Deadline
+DESCRIPTION:Deadline for HOTNETS 2023 November 28-29 Cambridge, Massachusetts, USA\nACM Workshop on Hot Topics in Networks\n\nhttps://conferences.sigcomm.org/hotnets/2023/
+URL:https://conferences.sigcomm.org/hotnets/2023/
+LOCATION:Cambridge, Massachusetts, USA
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230701T000000
+DTEND;TZID=Etc/GMT+12:20230701T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:mobisys2024-0@noise-lab.net/networking-deadlines
+SUMMARY:MOBISYS 2024 Deadline
+DESCRIPTION:Deadline for MOBISYS 2024 June 3-7 Tokyo, Japan\nACM International Conference on Mobile Systems, Applications, and Services\nAbstract deadline: November 23 11:59 PM AoE //
+Initial deadline, Check more details and recent updates on the corresponding website
+\nhttps://www.sigmobile.org/mobisys/2024/
+URL:https://www.sigmobile.org/mobisys/2024/
+LOCATION:Tokyo, Japan
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20231201T000000
+DTEND;TZID=Etc/GMT+12:20231201T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:imc2023-0@noise-lab.net/networking-deadlines
+SUMMARY:IMC 2023 Deadline
+DESCRIPTION:Deadline for IMC 2023 October 24-26 Montréal, Canada\nACM Internet Measurement Conference\nAbstract deadline: May 20 11:59 PM AoE (UTC-12)
+\nhttps://conferences.sigcomm.org/imc/2023/
+URL:https://conferences.sigcomm.org/imc/2023/
+LOCATION:Montréal, Canada
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230527T000000
+DTEND;TZID=Etc/GMT+12:20230527T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:sbrc2023-0@noise-lab.net/networking-deadlines
+SUMMARY:SBRC 2023 Deadline
+DESCRIPTION:Deadline for SBRC 2023 May 22-26 Brasilia, Brazil\nBrazilian Symposium on Computer Networks and Distributed Systems (SBRC)\nRegistration of article deadline: May 01
+\nhttps://sbrc.sbc.org.br/2023/sobre-o-evento/
+URL:https://sbrc.sbc.org.br/2023/sobre-o-evento/
+LOCATION:Brasilia, Brazil
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230502T000000
+DTEND;TZID=Etc/GMT+12:20230502T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:latincom2023-0@noise-lab.net/networking-deadlines
+SUMMARY:LATINCOM 2023 Deadline
+DESCRIPTION:Deadline for LATINCOM 2023 November 15-17 Panama City, Panama\nLatin-American Conference on Communications (LATINCOM)\n\nhttps://latincom2023.ieee-latincom.org/
+URL:https://latincom2023.ieee-latincom.org/
+LOCATION:Panama City, Panama
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230821T000000
+DTEND;TZID=Etc/GMT+12:20230821T000059
+END:VEVENT
+END:VCALENDAR

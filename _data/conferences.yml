@@ -1,0 +1,224 @@
+# By default, "timezone" is AoE
+
+# Networking
+
+- name: NSDI
+  year: 2024
+  date: "April 16 - 18"
+  description: USENIX Symposium on Networked Systems Design and Implementation
+  link: https://www.usenix.org/conference/nsdi24
+  comment: |
+    Abstract deadlines: April 27 (20:59 PST), September 7 (20:59 PST)
+  deadline:
+    - "2023-05-04 20:59"
+    - "2023-09-07 20:59"
+  timezone: America/Los_Angeles
+  place: Santa Clara, California, USA
+  tags: [CONF]
+
+- name: CoNEXT
+  year: 2023
+  date: "December 5 - 8"
+  description: International Conference on emerging Networking EXperiments and Technologies
+  link: https://conferences.sigcomm.org/co-next/2023
+  comment: 
+    Firm deadline, Check more details and recent updates on the corresponding website
+  deadline: ["2023-06-27 24:00"]
+  place: Paris, France
+  tags: [CONF]
+
+- name: IEEE INFOCOM
+  year: 2024
+  date: "May 20 - 23"
+  description: IEEE International Conference on Computer Communications
+  link: https://infocom2024.ieee-infocom.org/
+  comment: |
+    Abstract deadline: July 23 (23:59 AoE) //
+    Firm deadline, Check more details and recent updates on the corresponding website
+  deadline: ["2023-07-30 23:59:59"]
+  place: Vancouver, British Columbia, Canada
+  tags: [CONF]
+
+- name: SIGCOMM
+  year: 2023
+  date: "September 10 - 14"
+  description: Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication
+  link: https://conferences.sigcomm.org/sigcomm/2023/
+  comment: |
+    Abstract deadline: February 28 (23:59 UTC)
+  deadline: ["2023-02-15 23:59"]
+  timezone: Etc/UTC
+  place: New York City, New York, USA
+  tags: [CONF]
+
+- name: NOMS
+  year: 2024
+  date: "May 5 - 10"
+  description: IEEE/IFIP Network Operations and Management Symposium
+  link: https://noms2024.ieee-noms.org/
+  comment: 
+    Initial deadline, Check more details and recent updates on the corresponding website
+  deadline: ["2023-09-29 24:00"]
+  place: Seoul, South Korea
+  tags: [CONF]
+
+- name: NFV/SDN
+  year: 2023
+  date: "Nov 7 - 9"
+  description: IEEE Conference on Network Function Virtualization and Software Defined Networks
+  link: https://nfvsdn2023.ieee-nfvsdn.org/
+  comment: |
+    Firm deadline, Check more details and recent updates on the corresponding website
+  deadline: ["2023-07-21 24:00"]
+  place:  Dresden, Germany
+  tags: [CONF]
+
+- name: ICC
+  year: 2024
+  date: "June 9 - 13"
+  description: IEEE International Conference on Communications
+  comment: |
+    Initial deadline, Check more details and recent updates on the corresponding website
+  link: https://icc2024.ieee-icc.org/
+  deadline: ["2023-10-11 24:00"]
+  place:  Denver, CO, USA
+  tags: [CONF]
+
+- name: NETSOFT
+  year: 2023
+  date: "June 19 - 23"
+  description: IEEE International Conference on Network Softwarization
+  link: https://netsoft2023.ieee-netsoft.org/
+  deadline: ["2023-02-13 24:00"]
+  place:  Madrid, Spain
+  tags: [CONF]
+
+- name: GLOBECOM
+  year: 2023
+  date: "December 04 - 08"
+  description: IEEE Global Communications Conference
+  link: https://globecom2023.ieee-globecom.org/
+  deadline: ["2023-05-21 24:00"]
+  place:  Kuala Lumpur, Malaysia
+  tags: [CONF]
+
+- name: P4 WORKSHOP
+  year: 2023
+  date: "December 05 - 08"
+  description: Euro P4 2023
+  link: https://opennetworking.org/events/euro-p4-2023/
+  comment: 
+    Extended deadline, In conjunction with ACM CoNEXT 2023
+  deadline: ["2023-09-16 24:00"]
+  place:  Paris, France
+  tags: [SHOP]
+
+
+- name: WOWMOM
+  year: 2024
+  date: "June 04 - 07"
+  description: IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks
+  comment: 
+    Initial deadline, Check more details and recent updates on the corresponding website
+  link: https://www.cse.unsw.edu.au/~wowmom/2024/index.html
+  deadline: ["2023-12-1 24:00"]
+  place:  Perth, Australia
+  tags: [CONF]
+
+
+- name: MOBISLICE
+  year: 2023
+  date: "November 07"
+  description: Mobility Support in Slice-based Network Control for Heterogeneous Environments
+  link: http://mobislice.com/
+  comment: 
+    Initial deadline, In conjunction with IEEE Conference on Network Function Virtualization and Software Defined Networks
+  deadline: ["2023-09-18 24:00"]
+  place:  Dresden, Germany
+  tags: [SHOP]
+
+- name: CNSM
+  year: 2023
+  date: "October-November 30-02"
+  description: International Conference on Network and Service Management
+  link: http://www.cnsm-conf.org/2023/
+  deadline: ["2023-07-16 24:00"]
+  place:  Niagara Falls, Canada
+  tags: [CONF]
+
+- name: WCNC
+  year: 2023
+  date: "March 26-29"
+  description: IEEE Wireless Communications and Networking Conference
+  link: https://wcnc2023.ieee-wcnc.org/
+  deadline: ["2023-01-15 24:00"]
+  place:  Glasgow, Scotland, UK
+  tags: [CONF]
+
+- name: MOBICOM
+  year: 2023
+  date: "October 2-6"
+  description: International Conference On Mobile Computing And Networking
+  link: https://sigmobile.org/mobicom/2023/
+  comment: |
+    Abstract deadlines: March 10 (23:59 PDT), August 12 (23:59 PDT)
+  deadline:
+    - "2023-03-17 20:59"
+    - "2023-08-19 20:59"
+  timezone: America/Los_Angeles
+  place: Madrid, Spain
+  tags: [CONF]
+
+
+- name: HOTNETS
+  year: 2023
+  date: "November 28-29"
+  description: ACM Workshop on Hot Topics in Networks
+  link: https://conferences.sigcomm.org/hotnets/2023/
+  deadline: ["2023-06-30 24:00"]
+  place:  Cambridge, Massachusetts, USA
+  tags: [SHOP]
+
+- name: MOBISYS
+  year: 2024
+  date: "June 3-7"
+  description: ACM International Conference on Mobile Systems, Applications, and Services
+  link: https://www.sigmobile.org/mobisys/2024/
+  comment: |
+    Abstract deadline: November 23 11:59 PM AoE //
+    Initial deadline, Check more details and recent updates on the corresponding website
+  deadline: ["2023-11-30 24:00"]
+  place:  Tokyo, Japan 
+  tags: [CONF]
+
+
+- name: IMC
+  year: 2023
+  date: "October 24-26"
+  description: ACM Internet Measurement Conference
+  link: https://conferences.sigcomm.org/imc/2023/
+  comment: |
+    Abstract deadline: May 20 11:59 PM AoE (UTC-12)
+  deadline: ["2023-05-26 24:00"]
+  place:   Montréal, Canada
+  tags: [CONF]
+
+- name: SBRC
+  year: 2023
+  date: "May 22-26"
+  description: Brazilian Symposium on Computer Networks and Distributed Systems (SBRC)
+  link: https://sbrc.sbc.org.br/2023/sobre-o-evento/
+  comment: |
+    Registration of article deadline: May 01
+  deadline: ["2023-05-01 24:00"]
+  place:   Brasilia, Brazil
+  tags: [CONF]
+
+- name: LATINCOM
+  year: 2023
+  date: "November 15-17"
+  description: Latin-American Conference on Communications (LATINCOM)
+  link: https://latincom2023.ieee-latincom.org/
+  deadline: ["2023-08-20 24:00"]
+  place:   Panama City, Panama
+  tags: [CONF]

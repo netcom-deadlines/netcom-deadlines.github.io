@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://noise-lab.net/networking-deadlines
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:p4-workshop2023-0@noise-lab.net/networking-deadlines
+SUMMARY:P4 WORKSHOP 2023 Deadline
+DESCRIPTION:Deadline for P4 WORKSHOP 2023 December 05 - 08 Paris, France\nEuro P4 2023\nExtended deadline, In conjunction with ACM CoNEXT 2023\nhttps://opennetworking.org/events/euro-p4-2023/
+URL:https://opennetworking.org/events/euro-p4-2023/
+LOCATION:Paris, France
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230917T000000
+DTEND;TZID=Etc/GMT+12:20230917T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:mobislice2023-0@noise-lab.net/networking-deadlines
+SUMMARY:MOBISLICE 2023 Deadline
+DESCRIPTION:Deadline for MOBISLICE 2023 November 07 Dresden, Germany\nMobility Support in Slice-based Network Control for Heterogeneous Environments\nInitial deadline, In conjunction with IEEE Conference on Network Function Virtualization and Software Defined Networks\nhttp://mobislice.com/
+URL:http://mobislice.com/
+LOCATION:Dresden, Germany
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230919T000000
+DTEND;TZID=Etc/GMT+12:20230919T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:hotnets2023-0@noise-lab.net/networking-deadlines
+SUMMARY:HOTNETS 2023 Deadline
+DESCRIPTION:Deadline for HOTNETS 2023 November 28-29 Cambridge, Massachusetts, USA\nACM Workshop on Hot Topics in Networks\n\nhttps://conferences.sigcomm.org/hotnets/2023/
+URL:https://conferences.sigcomm.org/hotnets/2023/
+LOCATION:Cambridge, Massachusetts, USA
+CLASS:PUBLIC
+DTSTAMP:20231011T21181697069886Z
+DTSTART;TZID=Etc/GMT+12:20230701T000000
+DTEND;TZID=Etc/GMT+12:20230701T000059
+END:VEVENT
+END:VCALENDAR
